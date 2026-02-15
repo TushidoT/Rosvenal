@@ -19,7 +19,7 @@
 
 <p class="personal_config">
   <a href="https://emoji.gg/emoji/2880-boykisser"><img src="https://cdn3.emoji.gg/emojis/2880-boykisser.png" width="35px" height="35px" alt="boykisser"></a>
-  <span style="font-weight:bold;">&nbsp Hi there :D </span>
+  <span style="font-weight:bold;">&nbsp Hi :D </span>
 </p>
 
 My name is Bruno.
