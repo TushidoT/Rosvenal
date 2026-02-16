@@ -13,7 +13,7 @@
 
 
 <!-- Header -->
-<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da68ab&width=100%&height=180&fontSize=35&text=Welcome!&fontColor=ffffff" /></a>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!&&textBg=false" /></a>
 
 # Personal
 
